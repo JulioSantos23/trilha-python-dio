@@ -13,3 +13,4 @@ print(linguagens)
 linguagens = ["python", "js", "c", "java", "csharp"]
 linguagens.sort(key=lambda x: len(x), reverse=True)  # ["python", "csharp", "java", "js", "c"]
 print(linguagens)
+ 
